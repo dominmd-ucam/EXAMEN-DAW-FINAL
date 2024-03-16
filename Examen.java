@@ -10,7 +10,7 @@ public class Examen {
 	        carrito.agregarItem(item2);
 	        carrito.imprimirDetalle();
 
-			System.out.println("Hola me llamo domingo");
+			System.out.println("Hola me llamo CARLOS");
 	    }
 	}
 
